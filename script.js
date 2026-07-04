@@ -1,7 +1,7 @@
 /* ==========================================================
    SAKIB PORTFOLIO
    STEP 3 - PART 1
-   Loader • Cursor • Navbar • Smooth Scroll • Reveal
+   Loader â€¢ Cursor â€¢ Navbar â€¢ Smooth Scroll â€¢ Reveal
 ========================================================== */
 
 window.addEventListener("load", () => {
@@ -159,7 +159,7 @@ window.addEventListener("scroll", () => {
 });
 /* ==========================================================
    STEP 3 - PART 2
-   Counter • Contact • Back To Top • Typing • Lightbox
+   Counter â€¢ Contact â€¢ Back To Top â€¢ Typing â€¢ Lightbox
 ========================================================== */
 
 /* ================= Counter Animation ================= */
@@ -420,7 +420,7 @@ const copyright = document.querySelector(".copyright");
 if (copyright) {
 
     copyright.innerHTML =
-        `© ${new Date().getFullYear()} Sams Uddin Sakib. All Rights Reserved.`;
+        `Â© ${new Date().getFullYear()} Sams Uddin Sakib. All Rights Reserved.`;
 
 }
 
